@@ -1,0 +1,6 @@
+{
+  "name": "AeroPDF — Mobile PDF Viewer & Cloud Sync",
+  "description": "Premium, modern mobile-first PDF viewer and document management SaaS for iOS & Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
